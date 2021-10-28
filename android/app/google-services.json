@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "647811055057",
+    "project_id": "pranafm-c0b3d",
+    "storage_bucket": "pranafm-c0b3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647811055057:android:65c536bce40110b35d34f0",
+        "android_client_info": {
+          "package_name": "com.pranafm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647811055057-ahfo5dbf42bgb5g1ahiiunnusc6ng0m4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pranafm",
+            "certificate_hash": "5f8264f2edc598641be630d4e8046a9c16f8b1a0"
+          }
+        },
+        {
+          "client_id": "647811055057-1vo8shsal45hductvigque6of88e3b9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD88Pg3-gNyTVA8GDdAxI30PlopqCwlTNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647811055057-1vo8shsal45hductvigque6of88e3b9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
